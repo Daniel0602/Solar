@@ -1,5 +1,0 @@
-Comando para subir la pagina a el world, va en el cmd:
-firebase deploy
-
-Comando para probar desde acá con la url = http://localhost:9420 :
-nmp start
